@@ -1,25 +1,27 @@
-# 👋 Hola, mi nombre es Luis Martin González
-|Lenguaje|Habilidad|
-|-|-|
-|HTML|2/10|
-|CSS|1/10|
-|JavaScript|3/10|
-|Bootstrap|0/10
-# 🙋 Info
-Hola, soy el estudiante de este curso, además soy Ingeniero Industrial por la Universidad Tecmilenio, puede visitar la página oficial en: [tecmilenio.mx](https://tecmilenio.mx/es). Si gustan ponerse en contacto, pueden escribir un correo a: [al02855047@tecmilenio.mx](mailto:al02855047@tecmilenio.mx)
+# Luis Martin González
 
-Algunos de mis intereses:
+*Emprendedor de Empresas*
 
-    -Automovilismo
-    -Ver pelÍculas
-    -Aprender a programar
-    -implementación de IA
+[Email](mailto:al02855047@tecmilenio.mx) / [Github](https://github.com/lmglez/miperfil.git)
 
-Mi top 5 de comida:
-1. Lasaña
-2. Tacos
-3. Barbacoa
-4. Pizza
-5. Mole
+# ⏱️ Esperiencia
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHA3NXIzcXVxNWRsdGlzbnVwbnFyMzAyaHpoNTJ3cnlyOWZ1ZzlqbCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3o6fIT3Qst20RB4Xao/giphy.gif)
+**Director General** @ [TCJ](https://tcj.mx) (2009-*Presente*)
+- Organización y administración de los recursos materiales y humanos de la empresa.
+- Organización de equipos de trabajo, supervisando la productividad y el rendimiento.
+- Aprovechamiento eficaz de los recursos materiales y tecnológicos disponibles.
+- Detección de posibles oportunidades de mejora.
+
+# 🏫 Formación
+
+**Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Guadalajara** Maestría en Ingeniería con especialidad en Sistemas Calidad y Productividad [Tec de Monterrey](https://tec.mx) Zapopan, Jal.(2022-2025)
+
+**Universidad TecMilenio, Campus Guadalajara Sur** Licenciatura en Ingeniería Industrial y Sistemas [TecMilenio](https://tecmilenio.mx) Tlaquepaque, Jal. (2017-2019)
+
+## 🏆 Certificaciones
+- **Lean Six Sigma Black Belt** @ Arizona State University (2025)
+- **Innovación y Emprendimiento** @ Universidad Tecmilenio (2019)
+- **Calidad Total** @ Universidad Tecmilenio (2019)
+- **Lean Six Sigma Green Belt** @ SigmaPro, Inc. (2019)
+- **Six Sigma Yellow Belt** @ SigmaPro, Inc. (2018) 
+
